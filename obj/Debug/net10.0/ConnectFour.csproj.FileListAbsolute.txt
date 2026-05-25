@@ -84,3 +84,4 @@
 /Users/notouchy/Library/Mobile Documents/com~apple~CloudDocs/School/college/CSE325/week04/ConnectFour/obj/Debug/net10.0/scopedcss/Components/Board.razor.rz.scp.css
 /Users/notouchy/Library/Mobile Documents/com~apple~CloudDocs/School/college/CSE325/week04/ConnectFour/obj/Debug/net10.0/compressed/8t7ubqbmk6-{0}-k2j5orsqtx-k2j5orsqtx.gz
 /Users/notouchy/Library/Mobile Documents/com~apple~CloudDocs/School/college/CSE325/week04/ConnectFour/obj/Debug/net10.0/compressed/qps0edvuu1-{0}-k2j5orsqtx-k2j5orsqtx.gz
+/Users/notouchy/Library/Mobile Documents/com~apple~CloudDocs/School/college/CSE325/week04/ConnectFour/obj/Debug/net10.0/ConnectFour.sourcelink.json
