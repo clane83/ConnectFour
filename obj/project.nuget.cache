@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYv5gCFQWJo=",
+  "success": true,
+  "projectFilePath": "/Users/notouchy/Library/Mobile Documents/com~apple~CloudDocs/School/college/CSE325/week04/ConnectFour/ConnectFour.csproj",
+  "expectedPackageFiles": [
+    "/Users/notouchy/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.7/microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
